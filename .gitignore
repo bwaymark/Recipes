@@ -1,0 +1,16 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# iCloud
+.iCloud
+
+# Obsidian
+.obsidian/
+.trash/
+
+# Temporary files
+*.tmp
+*.temp
+*~

@@ -61,7 +61,10 @@ Use a decent probe thermometer. Don't rely on time alone.
 
 Evaporative cooling stalls the internal temperature, sometimes for hours.
 Wrapping in butcher's paper pushes through it while keeping some bark integrity.
+
 Foil works but softens the bark more. Your call.
+
+I wrap a layer of butchers paper then put a layer of foil on the outside.
 
 ---
 

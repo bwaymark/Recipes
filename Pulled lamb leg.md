@@ -83,4 +83,5 @@ Works well in:
 - Leftovers reheat well with a splash of stock in a covered pan.
 
 Trench notes:
--xo black gold and some rosemary used for rub 
+ - xo black gold and some rosemary used for rub 
+ - the stall was at 60*
